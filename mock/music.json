@@ -1,0 +1,122 @@
+[
+{
+    "music_url": "http://content2.audionetwork.com/Preview/tracks/mp3/v5res/ANW2340/03.mp3",
+    "author_name": "Bob Bradley",
+    "author_uuid": "2afeca88-164d-4a91-8b96-d7ee6847f327",
+    "musician_name": "鲍勃·布拉德利",
+    "music_name": "All For You",
+    "oss_path": "songs/1510911986712KaeIbGYvMjNB5KmnwwB5zhOCbmc7Mw.mp3",
+    "origin": "https://www.audionetwork.com",
+    "is_download_success": true,
+    "is_retry": true
+},
+{
+    "music_url": "http://content2.audionetwork.com/Preview/tracks/mp3/v5res/ANW2262/03.mp3",
+    "author_name": "Bob Bradley",
+    "author_uuid": "2afeca88-164d-4a91-8b96-d7ee6847f327",
+    "musician_name": "鲍勃·布拉德利",
+    "music_name": "Billionaire",
+    "oss_path": "songs/1510912062591h9PMVtMuXfpKJg6Wdmd6jB05Fy8qNQ.mp3",
+    "origin": "https://www.audionetwork.com",
+    "is_download_success": false,
+    "is_retry": true
+},
+{
+    "music_url": "http://content2.audionetwork.com/Preview/tracks/mp3/v5res/ANW2457/008.mp3",
+    "author_name": "Charlie Jefferson",
+    "author_uuid": "a95a0bd5-ba2d-43f0-8974-852137d9268b",
+    "musician_name": "Charlie Jefferson",
+    "music_name": "Sundown Redemption",
+    "oss_path": "songs/1508145857596zJZuUoKzY6fXxdqJBVVdlaDAuKRJo3.mp3",
+    "origin": "https://www.audionetwork.com",
+    "is_download_success": true,
+    "is_retry": true
+},
+{
+    "music_url": "http://content2.audionetwork.com/Preview/tracks/mp3/v5res/ANW2457/006.mp3",
+    "author_name": "Charlie Jefferson",
+    "author_uuid": "a95a0bd5-ba2d-43f0-8974-852137d9268b",
+    "musician_name": "Charlie Jefferson",
+    "music_name": "Smoky Mountains",
+    "oss_path": "songs/1508145860647hoLc6R0NTo056aayYQNjGWnUt5ZZEf.mp3",
+    "origin": "https://www.audionetwork.com",
+    "is_download_success": true,
+    "is_retry": true
+},
+{
+    "music_url": "http://content2.audionetwork.com/Preview/tracks/mp3/v5res/ANW2375/06.mp3",
+    "author_name": "Bob Bradley",
+    "author_uuid": "2afeca88-164d-4a91-8b96-d7ee6847f327",
+    "musician_name": "鲍勃·布拉德利",
+    "music_name": "Money Bags",
+    "oss_path": "songs/1510911954070nwGvWFjHbKf0jjmM7vzaMO4gqdUdJe.mp3",
+    "origin": "https://www.audionetwork.com",
+    "is_download_success": true,
+    "is_retry": true
+},
+{
+    "music_url": "http://content2.audionetwork.com/Preview/tracks/mp3/v5res/ANW1880/05.mp3",
+    "author_name": "Kes Loy",
+    "author_uuid": "9ae4d1d8-757b-4065-8ac8-70ddc4bbe223",
+    "musician_name": "卡斯洛",
+    "music_name": "Hey Let's Go",
+    "oss_path": "songs/1510909251307Ciz8wjQCoYzlb1s9dfDvV209orUKH8.mp3",
+    "origin": "https://www.audionetwork.com",
+    "is_download_success": true,
+    "is_retry": true
+},
+{
+    "music_url": "http://content2.audionetwork.com/Preview/tracks/mp3/v5res/ANW2340/02.mp3",
+    "author_name": "Bob Bradley",
+    "author_uuid": "2afeca88-164d-4a91-8b96-d7ee6847f327",
+    "musician_name": "鲍勃·布拉德利",
+    "music_name": "Tell Me A Story",
+    "oss_path": "songs/1510911972086Bpp3vgz2tqxk5OE2An3cfCrwcCUYbf.mp3",
+    "origin": "https://www.audionetwork.com",
+    "is_download_success": true,
+    "is_retry": true
+},
+{
+    "music_url": "http://content2.audionetwork.com/Preview/tracks/mp3/v5res/ANW2457/008.mp3",
+    "author_name": "Charlie Jefferson",
+    "author_uuid": "a95a0bd5-ba2d-43f0-8974-852137d9268b",
+    "musician_name": "Charlie Jefferson",
+    "music_name": "Sundown Redemption",
+    "oss_path": "songs/1508145857596zJZuUoKzY6fXxdqJBVVdlaDAuKRJo3.mp3",
+    "origin": "https://www.audionetwork.com",
+    "is_download_success": true,
+    "is_retry": true
+},
+{
+    "music_url": "http://content2.audionetwork.com/Preview/tracks/mp3/v5res/ANW2457/006.mp3",
+    "author_name": "Charlie Jefferson",
+    "author_uuid": "a95a0bd5-ba2d-43f0-8974-852137d9268b",
+    "musician_name": "Charlie Jefferson",
+    "music_name": "Smoky Mountains",
+    "oss_path": "songs/1508145860647hoLc6R0NTo056aayYQNjGWnUt5ZZEf.mp3",
+    "origin": "https://www.audionetwork.com",
+    "is_download_success": true,
+    "is_retry": true
+},
+{
+    "music_url": "http://content2.audionetwork.com/Preview/tracks/mp3/v5res/ANW2875/05.mp3",
+    "author_name": "Bob Bradley",
+    "author_uuid": "2afeca88-164d-4a91-8b96-d7ee6847f327",
+    "musician_name": "鲍勃·布拉德利",
+    "music_name": "In My Blood",
+    "oss_path": "songs/15109111937552ujavQEEzAqkwPOP4XyxeS7CQ1gNSC.mp3",
+    "origin": "https://www.audionetwork.com",
+    "is_download_success": true,
+    "is_retry": true
+},
+{
+    "music_url": "http://content2.audionetwork.com/Preview/tracks/mp3/v5res/ANW2868/07.mp3",
+    "author_name": "Bob Bradley",
+    "author_uuid": "2afeca88-164d-4a91-8b96-d7ee6847f327",
+    "musician_name": "鲍勃·布拉德利",
+    "music_name": "You Got It",
+    "oss_path": "songs/1510911208771ZJZLKEofd4qmWPMx01W2HQqn5XRFSi.mp3",
+    "origin": "https://www.audionetwork.com",
+    "is_download_success": true,
+    "is_retry": true
+}]
